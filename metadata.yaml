@@ -1,5 +1,5 @@
 _repo: Medicine-in-the-Middle-Ages-Extracts-from-Le-Moyen-Age-Medical-by-Dr-Edmond-Dupouy-translated__63938
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Minor, Thomas C. (Thomas Chalmers)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1912
     gutenberg_agent_id: '52672'
     url: http://www.gutenberg.org/2009/agents/52672
+covers:
+- cover_type: archival
+  image_path: 63938-h/images/cover.jpg
 creator:
   author:
     agent_name: Dupouy, Edmond
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '52677'
     url: http://www.gutenberg.org/2009/agents/52677
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63938#Medicine-in-the-Middle-Ages-Extracts-from-Le-Moyen-Age-Medical-by-Dr-Edmond-Dupouy-translated_
 gutenberg_issued: '2020-12-02'
 gutenberg_type: Text
 identifiers:
